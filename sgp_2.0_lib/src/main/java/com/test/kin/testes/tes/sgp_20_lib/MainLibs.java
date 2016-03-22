@@ -5,4 +5,6 @@ package com.test.kin.testes.tes.sgp_20_lib;
  * My Application.
  */
 public class MainLibs {
+    public boolean test;
+    public boolean test2;
 }
